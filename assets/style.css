@@ -46,6 +46,11 @@ height: 100%;
 background-color: var(--card-front-color);
 }
 
+.cartao__conteudo__pergunta p{
+color: var(--text-color);
+font-weight: 500;
+}
+
 footer p{
 text-align: center;
 font-size: 0.6rem;
