@@ -28,6 +28,10 @@ height:2rem;
 background-color: rgb(234, 138, 165);
 text-align: left;
 padding: 0.5rem;
+position: absolute;
+margin: 0.6rem;
+border-radius: 0.6rem;
+font-size: 1vw;
 }
 
 footer p{
