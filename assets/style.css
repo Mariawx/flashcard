@@ -1,5 +1,5 @@
 body {
-background-color: bisque;
+background-color: rgb(226, 103, 220);
 font-family: Bai Jamjuree;
 }
 
@@ -16,7 +16,7 @@ flex-basis: calc(33% -6rem);
 }
 
 footer {
-background-color: rgb(216, 153, 153);
+background-color: rgb(194, 147, 194);
 color: rgb(97, 94, 94);
 bottom:0;
 position:fixed;
