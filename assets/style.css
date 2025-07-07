@@ -41,11 +41,6 @@ width: 100%;
 transform: rotateY(180deg);
 }
 
-.cartao__conteudo p {
-margin-top: 1rem;
-padding: 2rem;
-margin-top: 4rem;
-}
 
 footer {
 background-color: rgb(194, 147, 194);
@@ -73,6 +68,12 @@ height: 100%;
 background-color: var(--card-front-color);
 transform-style: preserve-3d;
 transition: transform 300ms ease-in-out;
+}
+
+.cartao__conteudo p {
+margin-top: 1rem;
+padding: 2rem;
+margin-top: 4rem;
 }
 
 .cartao__conteudo__pergunta p{
