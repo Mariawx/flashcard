@@ -29,6 +29,10 @@ backface-visibility: hidden;
 }
 }
 
+.cartao__conteudo__resposta {
+transform: rotateY(180deg);
+}
+
 footer {
 background-color: rgb(194, 147, 194);
 color: rgb(97, 94, 94);
