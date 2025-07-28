@@ -1,6 +1,6 @@
 :root {
 --text-color: #a35fa2;
---card-front-color: #5a626c;
+--card-front-color: hsl(170, 80%, 37%);
 --card-back-color: #328655;
 }
 
@@ -48,7 +48,7 @@ transform: rotateY(180deg);
 
 footer {
 background-color: rgb(194, 147, 194);
-color: rgb(97, 94, 94);
+color: hsl(170, 80%, 37%);
 bottom:0;
 position:fixed;
 width:100%;
