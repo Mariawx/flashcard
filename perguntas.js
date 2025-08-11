@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Inteligência Artificial?',
-    '"A inteligência artificial é um campo da ciência da computação que se dedica ao estudo e ao desenvolvimento de máquinas e programas computacionais capazes de reproduzir o comportamento humano na tomada de decisões e na realização de tarefas, desde as mais simples até as mais complexas.'
+    'Qual a importância da informática?',
+    '"A informática facilita a realização de tarefas, otimiza processos e abre portas para mercado de trabalho'
 )
 
 criaCartao(
