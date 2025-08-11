@@ -16,7 +16,7 @@ criaCartao(
     'São retirados 450 mililitros'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Saúde',
+    'Qual tipo sanguíneo são consideradas doadores universais?',
+    'Tipo O'
 )
