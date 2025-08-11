@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programação',
+    'Quais são as principais linguagens de programação?',
+    'Python, Java, JavaScript'
 )
 
 criaCartao(
