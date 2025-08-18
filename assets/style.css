@@ -1,11 +1,11 @@
 :root {
 --text-color: #DBE4EF;
---card-front-color: #144480;
---card-back-color: #0dd9dc;
+--card-front-color: #6d1d6c;
+--card-back-color: #e95ec6;
 }
 
 body {
-background: url('bg-desktop.webp');
+background: url('1600w-ERwo-Zi1N2A.webp');
 font-family: Bai Jamjuree;
 
 } 
@@ -19,7 +19,7 @@ gap: 3rem;
 }
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(6, 241, 206);
+background-color: rgb(185, 120, 226);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
@@ -98,7 +98,7 @@ margin-top: 0,5rem;
 @media (max-width: 560px) {
 
     body {
-        background: url('assets/bg-mobile.webp');
+        background: url('imagem-de-fundo-yeaxrij2aepc1xio.jpg');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
